@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBlazorMultipleWindowsTest", "WpfBlazorMultipleWindowsTest\WpfBlazorMultipleWindowsTest.csproj", "{3362E22B-BAAB-429D-A2A3-1B6B2D982915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBlazorMultipleWindowsTest.Blazor", "WpfBlazorMultipleWindowsTest.Blazor\WpfBlazorMultipleWindowsTest.Blazor.csproj", "{00E89B69-DC84-4EE5-ADA2-82440C626C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3362E22B-BAAB-429D-A2A3-1B6B2D982915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3362E22B-BAAB-429D-A2A3-1B6B2D982915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3362E22B-BAAB-429D-A2A3-1B6B2D982915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3362E22B-BAAB-429D-A2A3-1B6B2D982915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E89B69-DC84-4EE5-ADA2-82440C626C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E89B69-DC84-4EE5-ADA2-82440C626C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E89B69-DC84-4EE5-ADA2-82440C626C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E89B69-DC84-4EE5-ADA2-82440C626C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7940A4B-11FC-457F-ADEB-45356C521E46}
+	EndGlobalSection
+EndGlobal
